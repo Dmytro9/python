@@ -5,3 +5,9 @@ to number
 # input
 enter from console
 
+
+# Objects
+are copied by link (as in js)
+
+
+
