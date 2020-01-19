@@ -1,3 +1,6 @@
+# Интерпретируемый язык с сильной динамической типизацией (во время выполнеия кода)
+
+
 # float
 to number
 
@@ -8,6 +11,36 @@ enter from console
 
 # Objects
 are copied by link (as in js)
+
+
+# Data type and constans
+there is no constans, just naming convention
+
+
+
+# Типы данных
+Числа:
+* Целые - int, bool (0 False, 1 True)
+* Вещественные - float (1.5, -0.2,)
+* Комплексные - complex (2 + 3j; 5 - 7j), complex(2, 3), complex(5, -7), complex('8-4j')
+
+Контейнеры
+* неизменяемые - str, tuple
+* изменяемые - list
+
+...
+
+
+
+# Проверка типа
+type
+type(234)
+
+
+
+# To number
+float(...)
+int(...)
 
 
 
