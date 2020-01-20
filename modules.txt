@@ -1,0 +1,4 @@
+# Random module
+random numbers
+
+random.randint(10,20) -> number beetwen 10 - 20  (including rates)

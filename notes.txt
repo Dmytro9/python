@@ -35,9 +35,11 @@ there is no constans, just naming convention
 
 
 
-# Проверка типа
+# Проверка типа type checkong
 type
 type(234)
+type(2) -> class int (takes 14 bytes)
+type(0.2) -> class float (takes 16 bytes)
 
 
 
@@ -47,3 +49,26 @@ int(...)
 
 
 
+# Operators
++ - * /
+
+
+
+# Modular operator
+%
+5 % 3 -> 2
+10 % 2 -> 0
+7.5 % 5 -> 2.5
+
+
+
+# Import and use module
+import random
+
+potion_health = random.randint(25,50)
+
+
+
+# 'if' condition
+if True:
+  print("Something")
