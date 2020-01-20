@@ -1,3 +1,6 @@
+# https://ironsource.udemy.com/course/the-python-bible/
+
+
 # Интерпретируемый язык с сильной динамической типизацией (во время выполнеия кода)
 
 
